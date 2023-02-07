@@ -3,8 +3,7 @@ import React from 'react';
 const App = () => {
   return (
     <>
-      <h1>Chochoq</h1>
-      <p>Porno</p>
+     <h2>Farrux latta</h2>
     </>
   );
 };
