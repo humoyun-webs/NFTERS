@@ -1,0 +1,163 @@
+[
+    {
+        "cardName": "ArtCrypto",
+        "cardMain_bg": "../img/images/ArtCrypto.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "This NFT",
+        "cardMain_bg": "../img/images/ThisNft.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "NameCrypto",
+        "cardMain_bg": "../img/images/NameCrypto.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "KingCrypto",
+        "cardMain_bg": "../img/images/KingCrypto.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "ArtCrypto",
+        "cardMain_bg": "../img/images/ArtCrypto2.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "This NFT",
+        "cardMain_bg": "../img/images/ThisNft2.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "NameCrypto",
+        "cardMain_bg": "../img/images/NameCrypto2.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "KingCrypto",
+        "cardMain_bg": "../img/images/KingCrypto2.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "ArtCrypto",
+        "cardMain_bg": "../img/images/ArtCrypto3.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "This NFT",
+        "cardMain_bg": "../img/images/ThisNft3.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "NameCrypto",
+        "cardMain_bg": "../img/images/NameCrypto3.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "KingCrypto",
+        "cardMain_bg": "../img/images/KingCrypto3.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "ArtCrypto",
+        "cardMain_bg": "../img/images/ArtCrypto4.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "This NFT",
+        "cardMain_bg": "../img/images/ThisNft4.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "NameCrypto",
+        "cardMain_bg": "../img/images/NameCrypto4.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    },
+    {
+        "cardName": "KingCrypto",
+        "cardMain_bg": "../img/images/KingCrypto4.png",
+        "crypto_value": "0.25 ETH",
+        "crypto_icon": "../img/icons/cryptoicon.svg",
+        "person": "../img/icons/person1.svg",
+        "person_1": "../img/icons/person_2.svg",
+        "person_2": "../img/icons/person_3.svg",
+        "person_3": "../img/icons/person4.svg"
+    }
+    
+]
